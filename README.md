@@ -8,7 +8,7 @@
 <h2>Description</h2>
 In this project I create an Azure VM (Virtual Machine) where I download, install, and use a free VPN (Virtual Private Network) called ProtonVPN. <br />
 <br />
-VPNs (Virtual Private Networks) allow you to connect to a network through encrypted tunnels, enhancing security. Two commons ways VPNs are used are, for companies to allow for remote work, and accessing different content that otherwise would be unavailable without a VPN.  
+VPNs (Virtual Private Networks) create encrypted tunnels for secure network connections. They are commonly used by companies to enable remote work and by individuals to access restricted content.
 <br/>
 
 
@@ -17,11 +17,15 @@ VPNs (Virtual Private Networks) allow you to connect to a network through encryp
 - <b>ProtonVPN</b>
 - <b>Microsoft Azure</b>
 
-<h2>Project Walk-through:</h2>
+<h2>Project Step by Step:</h2>
 
 <p align="center">
-First, I will create an Azure VM: <br/>
-<img src="https://i.imgur.com/iQRAiPJ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+First, I will create an Azure VM: 
+h<br />
+<br />
+<img src="(https://i.imgur.com/ZJsdBaZ.jpeg)" height="80%" width="80%" alt="Setting Up in Azure"/>
+
+
 <br />
 <br />
 <img src="https://i.imgur.com/5OSa0sF.png" height="80%" width="80%" alt="Setting Up in Azure"/>
